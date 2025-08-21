@@ -1,11 +1,11 @@
 # SSS_NoteApp
 A new app to journal, plan, or note take
 
-Feature Planning: Journal / Planner / Notebook App
+`Feature Planning: Journal / Planner / Notebook App`
 
 # 1. Core Notebook Features
 
-- Pen Types & Styles: Gel, calligraphy, marker, pencil, highlighter.
+- Pen Types & Styles: Gel, calligraphy, marker, pencil
 
 - Paper Types: Lined, graph, dotted, blank, custom backgrounds (like “galaxy” or “class notes”).
 
@@ -15,7 +15,6 @@ Feature Planning: Journal / Planner / Notebook App
 
 - Pages: Add, delete, reorder pages within a notebook.
 
-__
 
 # 2. Planner & Productivity Tools
 
@@ -27,7 +26,7 @@ __
 
 - Reminders/Notifications: Push notifications for upcoming deadlines.
 
-__
+
 
 # 3. Creative & Personalization
 
@@ -41,7 +40,7 @@ __
 
 - Themes & Templates: Seasonal, minimal, aesthetic (dark mode, pastel, retro, etc.).
 
-__
+
 
 # 4. Advanced / Power Features
 
@@ -55,7 +54,7 @@ __
 
 - Collaboration Mode: Share notebooks with classmates (study groups).
 
-__
+
 
 # 5. User Experience Enhancements
 
@@ -70,3 +69,8 @@ __
 - Zoom In/Out: For detailed doodles or big-picture planning.
 
 - Progress Tracking: % tasks done per week, streaks for journaling daily.
+
+> [!NOTE]
+> This is for a senior project idea
+
+
